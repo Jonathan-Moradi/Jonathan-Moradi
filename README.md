@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Yonatan Moradi 👋
 
-<!--
-**Jonathan-Moradi/Jonathan-Moradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year Electrical Engineering Student @ HIT  
+💼 Hardware V&V Engineer @ Elbit Systems  
+⚡ Specializing in VLSI, Chip Design & Embedded Systems
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-yoni22444@gmail.com-blue?style=flat&logo=gmail)](mailto:yoni22444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonatan%20Moradi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yonatan-moradi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔲 16-bit Processor | Custom ISA with ALU, Control Unit & FSM | Verilog |
+| 🔁 DMA Controller | Bus Master with FSM & memory management | VHDL |
+
+---
+
+## 🔧 Tech Stack
+
+**HDL & FPGA**
+`Verilog` `VHDL` `ModelSim` `Quartus Prime`
+
+**Embedded & Systems**
+`C` `C++` `Python` `Raspberry Pi` `ROS2` `MAVLink`
+
+**Protocols**
+`UART` `SPI` `I2C` `USB` `TCP/IP`
+
+**Lab Equipment**
+`Oscilloscope` `Spectrum Analyzer` `Logic Analyzer` `Signal Generator`
